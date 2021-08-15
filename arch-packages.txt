@@ -1,0 +1,16 @@
+vim
+dmenu
+diff-so-fancy
+rxvt-unicode
+tmux
+htop
+open-ssh
+pulseaudio
+pamixer
+compton
+feh
+firefox
+mpv
+newsboat
+youtube-dl
+zsh

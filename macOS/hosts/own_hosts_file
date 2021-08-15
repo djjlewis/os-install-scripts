@@ -1,0 +1,23 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+############################################################################
+#
+#
+#
+# What is below is from https://someonewhocares.org/
+# To ignore certain keyword patterns based on the result of ack command-line
+# application, add the keyword to ignored_keywords file using '|' as a separator.
+# The keywords will be removed from the someonewhocares downloaded file.
+#
+#
+#
+############################################################################
+
