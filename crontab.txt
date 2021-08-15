@@ -1,0 +1,1 @@
+*/5 * * * * DISPLAY=:0 feh --nofeh-bg --bg-scale --randomize /home/dan/Pictures/wallpaper
