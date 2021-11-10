@@ -26,5 +26,4 @@ brew "unrar"
 brew "vim"
 brew "youtube-dl"
 
-cask "alacritty"
 cask "powershell"
