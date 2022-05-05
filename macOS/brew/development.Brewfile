@@ -2,6 +2,10 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions" # for firefox developer edition
 tap "nossralf/sqlpackage"
 
+brew "openjdk"
+brew "graphviz"
+brew "plantuml"
+
 brew "azure-cli"
 brew "httpie"
 brew "imagemagick"
@@ -16,6 +20,7 @@ cask "font-fira-code"
 cask "font-inconsolata"
 cask "font-jetbrains-mono"
 cask "font-source-code-pro"
+cask "font-sauce-code-pro-nerd-font"
 
 cask "azure-data-studio"
 cask "diffmerge"
