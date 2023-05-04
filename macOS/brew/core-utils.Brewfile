@@ -25,5 +25,11 @@ brew "tldr"
 brew "tmux"
 brew "vim"
 brew "youtube-dl"
+brew "yt-dlp"
+
+brew "yabai"
+brew "skhd", args: ["HEAD"]
 
 cask "powershell"
+cask "tailscale"
+
