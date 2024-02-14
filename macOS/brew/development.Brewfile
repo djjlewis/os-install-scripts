@@ -2,6 +2,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions" # for firefox developer edition
 tap "nossralf/sqlpackage"
 tap "microsoft/git"
+tap "azure/azd" 
 
 brew "openjdk"
 brew "graphviz"
@@ -40,3 +41,5 @@ cask "postman"
 cask "sublime-merge"
 cask "visual-studio-code"
 cask "github"
+
+brew "azd"
